@@ -135,7 +135,7 @@ span {
   border-radius: 4rem;
   border: solid 0.1rem var(--main-color);
   font-size: 1.6rem;
-  background: transparent;
+  background: var(--bg-color);
   color: var(--main-color);
   letter-spacing: 0.1rem;
   font-weight: 600;
