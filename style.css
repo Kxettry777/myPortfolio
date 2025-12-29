@@ -36,6 +36,7 @@ section {
   padding: 10rem 9% 2rem;
 }
 
+/* Heading  */
 .header {
   position: fixed;
   top: 0;
@@ -134,6 +135,7 @@ span {
   border-radius: 4rem;
   border: solid 0.1rem var(--main-color);
   font-size: 1.6rem;
+  background: transparent;
   color: var(--main-color);
   letter-spacing: 0.1rem;
   font-weight: 600;
